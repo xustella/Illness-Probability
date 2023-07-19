@@ -1,4 +1,4 @@
-# Illness-Probability
+# Illness-Probability (Xu and DiConza)
 
 Python Final Project - Progress Submission
 
